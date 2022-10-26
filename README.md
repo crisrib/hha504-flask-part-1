@@ -1,2 +1,2 @@
-# hha504-flaskapplication
+# hha504 - Flask-Part-1
 Assignment 2
